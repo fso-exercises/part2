@@ -1,0 +1,20 @@
+{
+  "persons": [
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": "3"
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "12-43-23434534",
+      "id": "FXIIUwgXj48"
+    },
+    {
+      "name": "Ihor Fliunt",
+      "number": "394853485",
+      "id": "zQg7d5JgivA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
